@@ -1,8 +1,11 @@
 <h1 align="center">Hi 👋, I'm Dheeraj Sanotra</h1>
-<h3 align="center">Senior Software Developer | PHP • Laravel • Node.js • SaaS Architect</h3>
+
+<h3 align="center">
+Senior Software Developer • Backend Engineer • SaaS Product Builder
+</h3>
 
 <p align="center">
-Building scalable web applications, APIs, payment systems, and SaaS products with 7+ years of experience.
+Building scalable backend systems, APIs, payment ecosystems, and SaaS products with 7+ years of experience.
 </p>
 
 ---
@@ -11,92 +14,110 @@ Building scalable web applications, APIs, payment systems, and SaaS products wit
 
 - 💼 Senior Software Developer at **AppMySite**
 - 🔥 7+ years of software development experience
-- 🌱 Working with PHP, Laravel, Node.js, MySQL & MongoDB
-- 💳 Specialized in Stripe, Paddle and payment gateway integrations
-- 🔔 Experienced with Firebase, OneSignal, WebSockets & Pusher
-- ⚡ Passionate about scalable backend architecture and SaaS products
+- ⚙️ Specialized in scalable backend systems and API architecture
+- 💳 Experienced with payment, billing, and subscription platforms
+- 🛒 Built integrations for Shopify, WooCommerce Marketplace, AppSumo, and more
+- 📡 Hands-on experience with WebSockets, Pusher, Firebase, and OneSignal
+- 🔐 Worked on SSO, 2FA, and secure authentication systems
+- 🚀 Passionate about building reliable products that create business impact
 - 📍 Ghaziabad, Uttar Pradesh, India
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Core Expertise
 
-### Backend
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+### Backend & APIs
+- PHP
+- Node.js
+- REST APIs
+- Webhooks
+- API Architecture
 
-### Database
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+### Payments & Billing
+- Stripe
+- Paddle
+- Zoho
+- Subscription Platforms
 
-### APIs & Integrations
-![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
-![Paddle](https://img.shields.io/badge/Paddle-000000?style=for-the-badge)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
-![OneSignal](https://img.shields.io/badge/OneSignal-EA1964?style=for-the-badge)
+### Real-Time Systems
+- WebSockets
+- Pusher
 
-### Frontend
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery)
+### Notifications
+- Firebase
+- OneSignal
 
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash)
+### Authentication & Security
+- SSO
+- Two-Factor Authentication (2FA)
 
----
+### Databases
+- MySQL
+- MongoDB
 
-## 🔥 Featured Expertise
+### DevOps & Automation
+- Bash Scripting
+- CI/CD
+- Git
 
-✔ Payment Gateway Integrations  
-✔ Stripe API & Webhooks  
-✔ Paddle Billing Integration  
-✔ REST APIs Development  
-✔ Queue Based Processing  
-✔ WebSockets & Pusher  
-✔ Firebase & OneSignal Notifications  
-✔ Progressive Web Apps (PWA)  
-✔ SSO & Two Factor Authentication  
-✔ SaaS Product Development  
-✔ MySQL & MongoDB Optimization  
-✔ DevOps Automation
-
----
-
-## 🏆 Achievements
-
-🏅 Improved transaction success rate by **25%**
-
-🏅 Built third-party partner integrations
-
-🏅 Developed scalable queue-based systems
-
-🏅 Automated deployment workflows using Bash scripts
-
-🏅 Built custom Node.js APIs powering mobile applications
+### Additional Expertise
+- In-App Purchases (IAP)
+- Android & iOS Build and Publishing Automation
+- Queue Processing
+- Dynamic Pricing Engines
+- Translation & Localization
+- Custom Layout Builder
 
 ---
 
-## 📈 GitHub Stats
+## 🏆 Key Highlights
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+✅ Improved transaction efficiency by **25%**
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+✅ Built scalable queue-based architectures
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+✅ Delivered complex third-party integrations
+
+✅ Designed marketplace and subscription ecosystems
+
+✅ Automated build and deployment workflows
+
+✅ Built real-time communication infrastructure
+
+---
+
+## 🌐 Domains & Industries
+
+- ☁️ SaaS
+- 🛒 E-Commerce
+- 🏥 Healthcare
+- 🎓 Education
+- 👥 HR & Workforce Management
+- 🌍 Export & Trading
+
+---
+
+## 📈 Currently Exploring
+
+- System Design
+- Scalable Architectures
+- AI Integrations
+- Product Engineering
+- Backend Performance Optimization
+
+---
+
+## 🤝 Let's Connect
+
+<p align="left">
+<a href="mailto:dsanotra90@gmail.com">📧 Email</a> •
+<a href="https://www.linkedin.com/in/dheeraj-sanotra">LinkedIn</a> •
+<a href="https://github.com/dheeraj-sanotra">GitHub</a> •
+<a href="https://dheeraj-sanotra.github.io/portfolio">Portfolio</a>
 </p>
 
 ---
 
-## 🌐 Connect with Me
-
-💼 LinkedIn:
-https://linkedin.com/in/dheeraj-sanotra
-
-📧 Email:
-dsanotra90@gmail.com
-
----
-
-### ⚡ "Building scalable SaaS solutions and turning ideas into products."
+<p align="center">
+⭐ Passionate about building scalable products and high-performance systems.
+</p>
