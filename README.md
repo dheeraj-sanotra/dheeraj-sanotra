@@ -1,4 +1,3 @@
-```md
 # Hi there 👋, I'm Dheeraj Sanotra
 
 Senior Development Engineer (SDE-III) | Backend Engineer
