@@ -1,123 +1,118 @@
-<h1 align="center">Hi 👋, I'm Dheeraj Sanotra</h1>
+```md
+# Hi there 👋, I'm Dheeraj Sanotra
 
-<h3 align="center">
-Senior Software Developer • Backend Engineer • SaaS Product Builder
-</h3>
+Senior Development Engineer (SDE-III) | Backend Engineer
 
-<p align="center">
-Building scalable backend systems, APIs, payment ecosystems, and SaaS products with 7+ years of experience.
-</p>
-
----
+I design, build, and scale backend systems for SaaS platforms with a strong focus on performance, reliability, payment infrastructure, and cloud-native architecture.
 
 ## 🚀 About Me
 
-- 💼 Senior Software Developer at **AppMySite**
-- 🔥 7+ years of software development experience
-- ⚙️ Specialized in scalable backend systems and API architecture
-- 💳 Experienced with payment, billing, and subscription platforms
-- 🛒 Built integrations for Shopify, WooCommerce Marketplace, AppSumo, and more
-- 📡 Hands-on experience with WebSockets, Pusher, Firebase, and OneSignal
-- 🔐 Worked on SSO, 2FA, and secure authentication systems
-- 🚀 Passionate about building reliable products that create business impact
-- 📍 Ghaziabad, Uttar Pradesh, India
+- 💼 8+ years of software development experience
+- ⚡ Built and maintained 1000+ production REST APIs
+- 🌍 Backend powering a platform serving **800K+ users**
+- 📱 Contributed to infrastructure generating **500K+ mobile apps** with **100M+ downloads**
+- 🏗️ Specialized in scalable Node.js backend architecture
+- ☁️ Experienced with AWS, CI/CD, Docker, and production infrastructure
+- 💳 Extensive experience with subscription and payment systems
 
 ---
 
-## 🛠 Core Expertise
+## 🛠 Tech Stack
 
-### Backend & APIs
-- PHP
+### Backend
 - Node.js
+- Express.js
+- PHP
+- Laravel
 - REST APIs
-- Webhooks
-- API Architecture
-
-### Payments & Billing
-- Stripe
-- Paddle
-- Zoho
-- Subscription Platforms
-
-### Real-Time Systems
-- WebSockets
-- Pusher
-
-### Notifications
-- Firebase
-- OneSignal
-
-### Authentication & Security
-- SSO
-- Two-Factor Authentication (2FA)
 
 ### Databases
 - MySQL
 - MongoDB
+- Redis
 
-### DevOps & Automation
-- Bash Scripting
-- CI/CD
+### Cloud & DevOps
+- AWS S3
+- CloudFront
+- CloudWatch
+- CodeBuild
+- Docker
+- Bitbucket Pipelines
+- Fastlane
+
+### Authentication & Security
+- JWT
+- OAuth2
+- OneLogin SSO
+- Firebase Authentication
+- Twilio Verify (TOTP)
+
+### Payments
+- Stripe
+- Paddle
+- Razorpay
+- Apple In-App Purchase
+- Google Play Billing
+- Zoho
+
+### Integrations
+- Shopify
+- WooCommerce
+- StackCommerce
+- AppSumo
+
+### Monitoring
+- Sentry
 - Git
-
-### Additional Expertise
-- In-App Purchases (IAP)
-- Android & iOS Build and Publishing Automation
-- Queue Processing
-- Dynamic Pricing Engines
-- Translation & Localization
-- Custom Layout Builder
+- Bitbucket
 
 ---
 
-## 🏆 Key Highlights
+## 💼 What I Work On
 
-✅ Improved transaction efficiency by **25%**
-
-✅ Built scalable queue-based architectures
-
-✅ Delivered complex third-party integrations
-
-✅ Designed marketplace and subscription ecosystems
-
-✅ Automated build and deployment workflows
-
-✅ Built real-time communication infrastructure
-
----
-
-## 🌐 Domains & Industries
-
-- ☁️ SaaS
-- 🛒 E-Commerce
-- 🏥 Healthcare
-- 🎓 Education
-- 👥 HR & Workforce Management
-- 🌍 Export & Trading
+- Backend architecture
+- High-performance REST APIs
+- SaaS product engineering
+- Subscription & payment platforms
+- Marketplace integrations
+- Authentication & authorization
+- Queue processing
+- Database optimization
+- CI/CD automation
+- Cloud infrastructure
+- Performance tuning
 
 ---
 
-## 📈 Currently Exploring
+## 🏆 Highlights
+
+- 🚀 Designed and maintained **1000+ production APIs**
+- 👥 Backend supporting **800K+ users**
+- 📱 Infrastructure behind **500K+ generated mobile apps**
+- 📈 Improved API response times to **100–300 ms** by migrating high-concurrency services from Laravel to Node.js
+- 🔄 Reduced Android & iOS release effort by **~80%** through AWS CodeBuild and Fastlane automation
+- 🌐 Unified **30+ third-party integrations** across payments, commerce, authentication, and cloud services
+- 🗄️ Participated in production migration from MySQL to MongoDB with minimal downtime
+
+---
+
+## 🌱 Currently Exploring
 
 - System Design
-- Scalable Architectures
-- AI Integrations
-- Product Engineering
-- Backend Performance Optimization
+- Distributed Systems
+- Event-Driven Architecture
+- Next.js & TypeScript
+- AI-assisted Developer Workflows
 
 ---
 
-## 🤝 Let's Connect
+## 📫 Connect With Me
 
-<p align="left">
-<a href="mailto:dsanotra90@gmail.com">📧 Email</a> •
-<a href="https://www.linkedin.com/in/dheeraj-sanotra">LinkedIn</a> •
-<a href="https://github.com/dheeraj-sanotra">GitHub</a> •
-<a href="https://dheeraj-sanotra.github.io/portfolio">Portfolio</a>
-</p>
+- LinkedIn: https://linkedin.com/in/dheeraj-sanotra
+- GitHub: https://github.com/dheeraj-sanotra
+- Portfolio: https://dheeraj-sanotra.github.io/portfolio
 
 ---
 
-<p align="center">
-⭐ Passionate about building scalable products and high-performance systems.
-</p>
+> *I enjoy solving complex backend problems, building scalable systems, and delivering production-ready software that serves users at scale.*
+```
