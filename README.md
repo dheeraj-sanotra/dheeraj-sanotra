@@ -1,117 +1,78 @@
-# Hi there 👋, I'm Dheeraj Sanotra
+# 👋 Hey, I'm Dheeraj Sanotra
 
-Senior Development Engineer (SDE-III) | Backend Engineer
+### Senior Backend Engineer • Node.js • System Design • SaaS Architecture
 
-I design, build, and scale backend systems for SaaS platforms with a strong focus on performance, reliability, payment infrastructure, and cloud-native architecture.
+I build scalable backend systems that power real-world products.
 
-## 🚀 About Me
+Over the last **8+ years**, I've engineered APIs, payment infrastructure, authentication systems, marketplace integrations, CI/CD pipelines, and cloud services for a SaaS platform serving **800K+ users**, enabling the creation of **500K+ mobile apps** with **100M+ downloads**.
 
-- 💼 8+ years of software development experience
-- ⚡ Built and maintained 1000+ production REST APIs
-- 🌍 Backend powering a platform serving **800K+ users**
-- 📱 Contributed to infrastructure generating **500K+ mobile apps** with **100M+ downloads**
-- 🏗️ Specialized in scalable Node.js backend architecture
-- ☁️ Experienced with AWS, CI/CD, Docker, and production infrastructure
-- 💳 Extensive experience with subscription and payment systems
+---
+
+## ⚡ What I'm Working On
+
+* 🚀 Building modern backend systems with **Node.js**
+* 📐 Learning **System Design** & Distributed Systems
+* ⚛️ Expanding into **Next.js & TypeScript**
+* 🤖 Exploring AI-assisted developer workflows
+* 📚 Open-sourcing reusable backend components
 
 ---
 
 ## 🛠 Tech Stack
 
-### Backend
-- Node.js
-- Express.js
-- PHP
-- Laravel
-- REST APIs
+**Backend**
 
-### Databases
-- MySQL
-- MongoDB
-- Redis
+`Node.js` `Express.js` `Laravel` `PHP`
 
-### Cloud & DevOps
-- AWS S3
-- CloudFront
-- CloudWatch
-- CodeBuild
-- Docker
-- Bitbucket Pipelines
-- Fastlane
+**Databases**
 
-### Authentication & Security
-- JWT
-- OAuth2
-- OneLogin SSO
-- Firebase Authentication
-- Twilio Verify (TOTP)
+`MySQL` `MongoDB` `Redis`
 
-### Payments
-- Stripe
-- Paddle
-- Razorpay
-- Apple In-App Purchase
-- Google Play Billing
-- Zoho
+**Cloud & DevOps**
 
-### Integrations
-- Shopify
-- WooCommerce
-- StackCommerce
-- AppSumo
+`AWS` `Docker` `CI/CD` `Fastlane` `CloudFront`
 
-### Monitoring
-- Sentry
-- Git
-- Bitbucket
+**Payments**
+
+`Stripe` `Razorpay` `Paddle` `Apple IAP` `Google Play Billing`
+
+**Authentication**
+
+`JWT` `OAuth2` `Firebase Auth` `OneLogin SSO`
 
 ---
 
-## 💼 What I Work On
+## 📊 Highlights
 
-- Backend architecture
-- High-performance REST APIs
-- SaaS product engineering
-- Subscription & payment platforms
-- Marketplace integrations
-- Authentication & authorization
-- Queue processing
-- Database optimization
-- CI/CD automation
-- Cloud infrastructure
-- Performance tuning
+* 🚀 1000+ Production APIs
+* 👥 800K+ Platform Users
+* 📱 500K+ Mobile Apps Generated
+* ⬇️ 100M+ App Downloads
+* 💳 Payment Infrastructure
+* ☁️ AWS Cloud Engineering
+* ⚡ High Performance APIs
 
 ---
 
-## 🏆 Highlights
+## 📌 Featured Projects
 
-- 🚀 Designed and maintained **1000+ production APIs**
-- 👥 Backend supporting **800K+ users**
-- 📱 Infrastructure behind **500K+ generated mobile apps**
-- 📈 Improved API response times to **100–300 ms** by migrating high-concurrency services from Laravel to Node.js
-- 🔄 Reduced Android & iOS release effort by **~80%** through AWS CodeBuild and Fastlane automation
-- 🌐 Unified **30+ third-party integrations** across payments, commerce, authentication, and cloud services
-- 🗄️ Participated in production migration from MySQL to MongoDB with minimal downtime
+> Coming soon...
 
----
-
-## 🌱 Currently Exploring
-
-- System Design
-- Distributed Systems
-- Event-Driven Architecture
-- Next.js & TypeScript
-- AI-assisted Developer Workflows
+* 🌐 Portfolio (Next.js)
+* 🏗 Backend Architecture Samples
+* 📦 Node.js Boilerplates
+* 📖 System Design Notes
 
 ---
 
-## 📫 Connect With Me
+## 🌎 Find Me
 
-- LinkedIn: https://linkedin.com/in/dheeraj-sanotra
-- GitHub: https://github.com/dheeraj-sanotra
-- Portfolio: https://dheeraj-sanotra.github.io/portfolio
+🌐 Portfolio → **dheeraj-sanotra.github.io/portfolio**
+
+💼 LinkedIn → **linkedin.com/in/dheeraj-sanotra**
+
+📫 Email → **[dsanotra90@gmail.com](mailto:dsanotra90@gmail.com)**
 
 ---
 
-> *I enjoy solving complex backend problems, building scalable systems, and delivering production-ready software that serves users at scale.*
-```
+> **"Build software that scales. Keep it simple. Make it reliable."**
