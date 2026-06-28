@@ -1,78 +1,167 @@
-# 👋 Hey, I'm Dheeraj Sanotra
+# Hi there 👋 I'm Dheeraj Sanotra
 
-### Senior Backend Engineer • Node.js • System Design • SaaS Architecture
+### Senior Development Engineer (SDE-III) | Backend Engineer | SaaS Platform Architect
 
-I build scalable backend systems that power real-world products.
+I build scalable backend systems, cloud infrastructure, payment platforms, and automation pipelines that power production SaaS products.
 
-Over the last **8+ years**, I've engineered APIs, payment infrastructure, authentication systems, marketplace integrations, CI/CD pipelines, and cloud services for a SaaS platform serving **800K+ users**, enabling the creation of **500K+ mobile apps** with **100M+ downloads**.
-
----
-
-## ⚡ What I'm Working On
-
-* 🚀 Building modern backend systems with **Node.js**
-* 📐 Learning **System Design** & Distributed Systems
-* ⚛️ Expanding into **Next.js & TypeScript**
-* 🤖 Exploring AI-assisted developer workflows
-* 📚 Open-sourcing reusable backend components
+With **8+ years of experience**, I've worked across the complete backend lifecycle—from designing APIs and database architecture to payment systems, cloud deployments, build automation, and production reliability.
 
 ---
 
-## 🛠 Tech Stack
+## 🚀 Professional Snapshot
 
-**Backend**
-
-`Node.js` `Express.js` `Laravel` `PHP`
-
-**Databases**
-
-`MySQL` `MongoDB` `Redis`
-
-**Cloud & DevOps**
-
-`AWS` `Docker` `CI/CD` `Fastlane` `CloudFront`
-
-**Payments**
-
-`Stripe` `Razorpay` `Paddle` `Apple IAP` `Google Play Billing`
-
-**Authentication**
-
-`JWT` `OAuth2` `Firebase Auth` `OneLogin SSO`
+* 💼 Senior Development Engineer (SDE-III)
+* 👨‍💻 8+ Years of Software Engineering Experience
+* 🌍 Backend powering **800K+ users**
+* 📱 Platform enabling **500K+ mobile applications**
+* ⬇️ Infrastructure supporting **100M+ app downloads**
+* ⚡ Designed & maintained **1000+ Production REST APIs**
+* ☁️ AWS Cloud • DevOps • CI/CD • Docker
+* 💳 Subscription & Payment Infrastructure Specialist
 
 ---
 
-## 📊 Highlights
+## 🛠 Technical Expertise
 
-* 🚀 1000+ Production APIs
-* 👥 800K+ Platform Users
-* 📱 500K+ Mobile Apps Generated
-* ⬇️ 100M+ App Downloads
-* 💳 Payment Infrastructure
-* ☁️ AWS Cloud Engineering
-* ⚡ High Performance APIs
+### Backend Development
+
+* Node.js
+* Express.js
+* Laravel
+* PHP
+* CodeIgniter
+* REST API Design
+* Queue Processing
+* Background Jobs
+* WebSockets
+* Pusher
+
+### Database Engineering
+
+* MySQL
+* MongoDB
+* Redis
+* Query Optimization
+* Aggregation Pipelines
+* Transactions
+* Database Indexing
+* Data Migration
+
+### Cloud & DevOps
+
+* AWS S3
+* CloudFront
+* CloudWatch
+* CodeBuild
+* Secrets Manager
+* Docker
+* Bitbucket Pipelines
+* Fastlane
+* Bash Scripting
+* CI/CD Automation
+
+### Authentication & Security
+
+* JWT
+* OAuth2
+* Firebase Authentication
+* OneLogin SSO
+* Twilio Verify (TOTP)
+* RBAC
+* Rate Limiting
+* Webhook Verification
+
+### Payment Infrastructure
+
+* Stripe
+* Paddle
+* Razorpay
+* Apple In-App Purchase
+* Google Play Billing
+* Zoho Subscriptions
+
+### Marketplace & Third-Party Integrations
+
+* Shopify
+* WooCommerce
+* WooCommerce Marketplace
+* StackCommerce
+* AppSumo
+* Firebase
+* OneSignal
+* Twilio
+
+---
+
+## 💡 What I Build
+
+* Scalable Backend Systems
+* SaaS Platforms
+* REST APIs
+* Payment & Subscription Platforms
+* Marketplace Integrations
+* Authentication Systems
+* Build & Release Automation
+* Cloud Infrastructure
+* Notification Systems
+* Progressive Web Apps (PWA)
+* Localization & Translation Platforms
+* Dynamic Pricing Engines
+
+---
+
+## 🏆 Career Highlights
+
+🚀 Designed and maintained **1000+ production APIs**
+
+👥 Backend systems serving **800K+ users**
+
+📱 Platform enabling creation of **500K+ mobile apps**
+
+⬇️ Infrastructure supporting **100M+ cumulative downloads**
+
+⚡ Migrated high-concurrency APIs from Laravel to Node.js, reducing response times to **100–300 ms**
+
+💳 Built complete subscription platforms integrating Stripe, Paddle, Razorpay, Apple IAP, Google Play Billing, and Zoho
+
+🔗 Unified **30+ third-party integrations** across payments, commerce, authentication, cloud, and automation
+
+☁️ Built Android & iOS build automation using AWS CodeBuild and Fastlane, reducing manual release effort by **~80%**
+
+🗄️ Participated in production migration from MySQL to MongoDB with minimal disruption
+
+---
+
+## 🌱 Currently Exploring
+
+* Advanced System Design
+* Distributed Systems
+* Event-Driven Architecture
+* Next.js & TypeScript
+* AI-assisted Development
+* Open Source Contributions
 
 ---
 
 ## 📌 Featured Projects
 
-> Coming soon...
+🚧 I'm currently building and publishing projects that demonstrate production-ready architecture, scalable backend systems, and modern web development.
 
-* 🌐 Portfolio (Next.js)
-* 🏗 Backend Architecture Samples
-* 📦 Node.js Boilerplates
-* 📖 System Design Notes
+Stay tuned!
 
 ---
 
-## 🌎 Find Me
+## 🤝 Let's Connect
 
-🌐 Portfolio → **dheeraj-sanotra.github.io/portfolio**
+🌐 Portfolio
+https://dheeraj-sanotra.github.io/portfolio
 
-💼 LinkedIn → **linkedin.com/in/dheeraj-sanotra**
+💼 LinkedIn
+https://linkedin.com/in/dheeraj-sanotra
 
-📫 Email → **[dsanotra90@gmail.com](mailto:dsanotra90@gmail.com)**
+📧 Email
+[dsanotra90@gmail.com](mailto:dsanotra90@gmail.com)
 
 ---
 
-> **"Build software that scales. Keep it simple. Make it reliable."**
+> **"I enjoy building reliable software that scales—from the first API to millions of requests."**
